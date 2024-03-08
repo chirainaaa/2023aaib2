@@ -8,5 +8,5 @@ int main()
 		ans *= i;
 	}
 	printf("%d",ans);
-	
+
 }
